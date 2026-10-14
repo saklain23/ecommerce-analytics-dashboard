@@ -94,7 +94,8 @@ End-to-end data analysis project using SQL and Power BI on e-commerce data — a
 | `dashboard_1_sales.png` | Sales dashboard screenshot |
 | `dashboard_2_products.png` | Product dashboard screenshot |
 | `ecommerce_dashboard.pdf` | Dashboard PDF export |
-| `ecommerce_dashboard.pbix` | Power BI source file |
+
+**Power BI Source File:** [Download PBIX](Google-Drive-Link)
 
 ---
 
